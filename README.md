@@ -2,7 +2,7 @@
 
 # Pewlett Hackard Employee Analysis (1980's & 1990's)
 
-Data Enginerring/Modeling Summary
+#Data Enginerring/Modeling Summary
 This project looks into the workforace of PH during the 1980s 1990s.It shows company data in CSV files and imported into PostgresSQL database and structured into various tables:
 
 -titles: Contains job titles and their corresponding IDs.
@@ -19,7 +19,8 @@ dept_manager: Connects employees to their respective departments, specifically f
 
 Refer to the EmpSQLTable-ERD image linking to EMP-Table-Schemata file that represents the tables schemas. The EmployeeSQL file shows the analysis of as listed below.
 
-Data Analysis Summary
+
+#Data Analysis Summary
 This database was queried to address several inquiries:
 
 1)Display employee number, last name, first name, sex, and salary for each employee.
