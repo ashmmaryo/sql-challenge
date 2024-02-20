@@ -9,15 +9,15 @@ This project looks into the workforace of PH during the 1980s 1990s.It shows com
 
 -departments: Holds department names and IDs.
 
-employees: Provides demographic details of employees, including employee ID, title ID, name, birthdate, sex, and date of hire.
+-employees: Provides demographic details of employees, including employee ID, title ID, name, birthdate, sex, and date of hire.
 
-salaries: Records the salaries of all employees indexed by employee ID.
+-salaries: Records the salaries of all employees indexed by employee ID.
 
-dept_employee: Establishes links between employees and their respective department(s) based on department number.
+-dept_employee: Establishes links between employees and their respective department(s) based on department number.
 
-dept_manager: Connects employees to their respective departments, specifically for those holding managerial positions.
+-dept_manager: Connects employees to their respective departments, specifically for those holding managerial positions.
 
-Refer to the EmpSQLTable-ERD image linking to EMP-Table-Schemata file that represents the tables schemas. The EmployeeSQL file shows the analysis of as listed below.
+-Refer to the EmpSQLTable-ERD image linking to EMP-Table-Schemata file that represents the tables schemas. The EmployeeSQL file shows the analysis of as listed below.
 
 
 #Data Analysis Summary
