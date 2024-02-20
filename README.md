@@ -1,6 +1,6 @@
 # sql-challenge
 
-Pewlett Hackard Employee Analysis (1980's & 1990's)
+# Pewlett Hackard Employee Analysis (1980's & 1990's)
 
 Data Enginerring/Modeling Summary
 This project looks into the workforace of PH during the 1980s 1990s.It shows company data in CSV files and imported into PostgresSQL database and structured into various tables:
